@@ -1,2 +1,2 @@
 # You will enter your deployed Surge URL 
-nervous-pizzas.surge.sh
+http://nervous-pizzas.surge.sh
